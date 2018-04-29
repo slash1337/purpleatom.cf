@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /img
+Disallow: /documentation/img
+Disallow: /contact/img
+Sitemap: https://purpleatom.cf/sitemap.xml
